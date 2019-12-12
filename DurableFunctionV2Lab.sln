@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DurableV2Lab.Server", "DurableV2Lab.Server\DurableV2Lab.Server.csproj", "{53579A66-08CC-4C6D-8D81-E079F722B241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DurableV2Lab.Client", "DurableV2Lab.Client\DurableV2Lab.Client.csproj", "{FDF4D48C-C737-435B-BCC0-117306D5741F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53579A66-08CC-4C6D-8D81-E079F722B241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53579A66-08CC-4C6D-8D81-E079F722B241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53579A66-08CC-4C6D-8D81-E079F722B241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53579A66-08CC-4C6D-8D81-E079F722B241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF4D48C-C737-435B-BCC0-117306D5741F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF4D48C-C737-435B-BCC0-117306D5741F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF4D48C-C737-435B-BCC0-117306D5741F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF4D48C-C737-435B-BCC0-117306D5741F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9A4BC4F-9061-4163-9E21-B642BC5E53AF}
+	EndGlobalSection
+EndGlobal
